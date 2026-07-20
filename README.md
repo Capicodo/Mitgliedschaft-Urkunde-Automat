@@ -1,1 +1,1 @@
-# Anteile-Automat
+# Mitgliedschaft-Urkunde-Automat
