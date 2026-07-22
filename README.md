@@ -1,1 +1,0 @@
-# Mitgliedschaft-Urkunde-Automat
