@@ -104,10 +104,11 @@ def resolve_column_name(row: dict, placeholder: str) -> str:
             return header
 
     aliases = {
-        "ID": ["mitgliedsnummer", "mitgliednummer", "id", "mitgliedid"],
-        "NAME": ["mitglied", "name", "kundenname", "namekontakt"],
-        "NSHARES": ["anteileeingezahlt", "anteilegezeichnet", "anteilgezeichnet", "anzahlanteile", "shares", "nshares"],
+        "ID": ["mitgliedsnummer"],
+        "NAME": ["mitglied"],
+        "NSHARES": ["anteileeingezahlt"],
         "TYPE": ["investierendesmitglied"],
+        "DATE": ["mitgliedseit"]
     }
 
     for alias in aliases.get(token.upper(), []):
@@ -118,6 +119,19 @@ def resolve_column_name(row: dict, placeholder: str) -> str:
 
     return ""
 
+def convert_to_german_date(date_val):
+    # Convert to string and remove any decimal points or whitespace
+    date_str = str(date_val).strip().split('.')[0]
+    
+    # Pad with leading zero if length is 7 (e.g., '8062026' -> '08062026')
+    date_str = date_str.zfill(8)
+    
+    # Extract day, month, year
+    day = date_str[:2]
+    month = date_str[2:4]
+    year = date_str[4:]
+    
+    return f"{day}.{month}.{year}"
 
 def resolve_placeholder_value(row: dict, placeholder: str) -> str:
     column_name = resolve_column_name(row, placeholder)
@@ -126,9 +140,15 @@ def resolve_placeholder_value(row: dict, placeholder: str) -> str:
 
     if placeholder.upper() == "FIELD_TYPE":
         raw_value = row.get(column_name, "")
-        if normalize_text(str(raw_value)) in {"wahr", "true", "1", "ja", "yes", "t", "y"}:
+        if normalize_text(str(raw_value)) in {"wahr"}:
             return "investierend"
         return "nutzend"
+
+    if placeholder.upper() == "FIELD_DATE":
+        raw_value = row.get(column_name, "")
+        if not raw_value:
+            return ""
+        return convert_to_german_date(raw_value)
 
     value = row.get(column_name, "")
     return str(value or "")
@@ -137,8 +157,8 @@ def resolve_placeholder_value(row: dict, placeholder: str) -> str:
 def get_template_for_row(row: dict, template_dir: Path) -> Path:
     value = str(row.get("Snglr-Plrl", "") or "").strip().upper()
     if value == "P":
-        return template_dir / "Plrl_Bestätigung-der-Mitgliedschaft-in-der-Piluweri-eG.docx"
-    return template_dir / "Snglr_Bestätigung-der-Mitgliedschaft-in-der-Piluweri-eG.docx"
+        return template_dir / "Plur_Bestätigung-der-Mitgliedschaft-in-der-Piluweri-eG.docx"
+    return template_dir / "Sing_Bestätigung-der-Mitgliedschaft-in-der-Piluweri-eG.docx"
 
 
 def replace_placeholders_in_paragraph(paragraph, replacements: dict) -> None:
@@ -393,6 +413,8 @@ if __name__ == "__main__":
         input("\nPress Enter to exit...")
     except KeyboardInterrupt:
         print("\nAbgebrochen.")
+        input("\nPress Enter to exit...")
     except Exception as exc:
         print(f"Fehler: {exc}")
+        input("\nPress Enter to exit...")
         sys.exit(1)
