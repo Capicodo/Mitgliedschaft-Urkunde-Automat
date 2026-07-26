@@ -77,7 +77,7 @@ def ask_for_outlook_account() -> object:
             smtp_address = getattr(account, "SmtpAddress", "") or ""
             user_name = getattr(account, "UserName", "") or ""
             if value.lower() in display_name.lower() or value.lower() in smtp_address.lower() or value.lower() in user_name.lower():
-                return account
+                return getattr(account, "SmtpAddress", "") or getattr(account, "DisplayName", "")
         print("Der angegebene Account wurde nicht gefunden. Bitte erneut eingeben.")
 
 
@@ -247,7 +247,7 @@ def create_simple_pdf_from_docx(docx_path: Path, pdf_path: Path) -> None:
 
 
 def send_pdf_via_outlook(
-    account: object, 
+    account_identifier: str,  # Übergeben Sie hier die SMTP-Adresse oder den DisplayName
     pdf_path: Path, 
     recipient: str, 
     name: str, 
@@ -257,15 +257,32 @@ def send_pdf_via_outlook(
         import win32com.client as win32
 
         outlook = win32.Dispatch("Outlook.Application")
+        
+        # 1. Passendes Konto frisch aus der aktuellen Session holen
+        target_account = None
+        for acc in outlook.Session.Accounts:
+            smtp_addr = getattr(acc, "SmtpAddress", "") or ""
+            disp_name = getattr(acc, "DisplayName", "") or ""
+            if account_identifier.lower() in smtp_addr.lower() or account_identifier.lower() in disp_name.lower():
+                target_account = acc
+                break
+
+        if not target_account:
+            raise RuntimeError(f"Konto '{account_identifier}' konnte in Outlook nicht aktiviert werden.")
+
         mail = outlook.CreateItem(0)
-        mail.SendUsingAccount = account
+
+        # 2. Konto explizit & zuverlässig zuweisen
+        mail.SendUsingAccount = target_account
+        # Zuverlässiger Low-Level COM-Invoke für neuere Outlook/Office 2024 Versionen:
+        mail._oleobj_.Invoke(*(64209, 0, 8, 0, target_account))
+
         mail.To = recipient
         mail.Subject = "Bestätigung der Mitgliedschaft"
         
-        # Displaying the item loads the user's default signature into mail.HTMLBody
+        # In Outlook anzeigen, um Standard-Signatur zu laden
         mail.Display()
 
-        # Select message body based on singular ("Du") or plural ("Ihr") context
         if is_plural:
             body_text = (
                 f"<p>Hallo {name},</p>"
@@ -289,7 +306,7 @@ def send_pdf_via_outlook(
                 "Deine Piluweris</p>"
             )
 
-        # Prepend custom body content before the default signature
+        # Text vor die geladene Signatur einfügen
         mail.HTMLBody = body_text + "<br/><br/>" + mail.HTMLBody
 
         mail.Attachments.Add(str(pdf_path))
