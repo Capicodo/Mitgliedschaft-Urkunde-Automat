@@ -137,7 +137,7 @@ def resolve_placeholder_value(row: dict, placeholder: str) -> str:
     column_name = resolve_column_name(row, placeholder)
     if not column_name:
         return ""
-
+    
     if placeholder.upper() == "FIELD_TYPE":
         raw_value = row.get(column_name, "")
         if normalize_text(str(raw_value)) in {"wahr"}:
@@ -345,10 +345,17 @@ def main() -> None:
     singles_count = 0
     plurals_count = 0
 
-    min_singles_required = 3
+    min_singles_required = 5
     min_plurals_required = 3
     
     for index, row in enumerate(selected_rows, start=1):
+        
+        
+        stadium_value = str(row.get("Stadium", "")).strip()
+        if stadium_value != "Mitglied":
+            print(f"\n[Übersprungen] Kein Mitglied (Stadium: '{stadium_value}') bei: {row.get('Mitglied', '')}")
+            continue  # Correctly skips the rest of the current row!
+        
         
         if row.get("Snglr-Plrl") == "S":
             singles_count += 1
@@ -358,6 +365,7 @@ def main() -> None:
             plurals_count += 1
             if plurals_count > min_plurals_required:
                 continue  # Skip processing if we have enough plurals
+            
             
         template_path = get_template_for_row(row, template_dir)
         if not template_path.exists():
@@ -413,7 +421,7 @@ def main() -> None:
             "pdf": pdf_output.name,
         })
 
-        print(f"Erstellt und versendet: {pdf_output.name} -> {'erfolgreich' if success else 'fehlgeschlagen'}")
+        print(f"Erstellt und wird versendet: {pdf_output.name} -> {'erfolgreich' if success else 'fehlgeschlagen'}")
 
     print("\n=== E-Mail Zusammenfassung ===")
     print(f"Gesendet: {sent_count}")
