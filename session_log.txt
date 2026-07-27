@@ -1,0 +1,6 @@
+
+--- New Session Started at 2026-07-27 12:13:09 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 

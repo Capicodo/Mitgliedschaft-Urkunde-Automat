@@ -447,7 +447,7 @@ def main() -> None:
 
         recipient = row.get('E-Mail', '').strip()
         if not recipient:
-            print(f"[Fehler] Keine E-Mail-Adresse für {row.get('Mitglied', '')}. Überspringe Versand.")
+            print(f"❌ [Fehler] Keine E-Mail-Adresse für {row.get('Mitglied', '')}. Überspringe Versand.")
             failed_count += 1
             results.append({
                 "name": safe_name,
@@ -472,7 +472,7 @@ def main() -> None:
             "pdf": pdf_output.name,
         })
 
-        print(f"Erstellt und wird versendet: {pdf_output.name} -> {'erfolgreich' if success else 'fehlgeschlagen'}")
+        print(f"Erstellt und wird versendet: {pdf_output.name} -> {'erfolgreich ✅' if success else 'fehlgeschlagen'}")
 
     print("\n=== E-Mail Zusammenfassung ===")
     print(f"Gesendet: {sent_count}")
