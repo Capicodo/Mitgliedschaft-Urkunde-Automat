@@ -371,7 +371,7 @@ def send_pdf_via_outlook(
 
 
 def main() -> None:
-    print("=== Mitgliedschaft Urkunde Automat Pre-Alpha v2.0 ===")
+    print("=== Mitgliedschaft Urkunde Automat RC v2.0 ===")
     print("Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.")
 
     template_dir = ask_for_path("Ordner mit den DOCX-Vorlagen: ", must_exist=True, is_file=False)
