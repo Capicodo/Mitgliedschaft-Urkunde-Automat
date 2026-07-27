@@ -4,3 +4,2501 @@
 === Mitgliedschaft Urkunde Automat RC v2.0 ===
 Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
 Ordner mit den DOCX-Vorlagen: 
+--- New Session Started at 2026-07-27 14:48:11 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\real data\TEST Info-PDF-Mail_CoopX_Mitglieder_alle_Felder_2026-07-27@13h41.csv"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Users\Piluweri\Desktop\Neuer Ordner (3)"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: urkunde_01_Reinhard_Meys.pdf -> erfolgreich ✅
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 1
+Nicht gesendet: 0
+Gesamt: 1
+✅ urkunde_01_Reinhard_Meys.pdf: gesendet an login.lvl-low@ite-pli.de
+
+Press Enter to exit...
+--- New Session Started at 2026-07-27 14:56:47 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\real data\TEST Info-PDF-Mail_CoopX_Mitglieder_alle_Felder_2026-07-27@13h41.csv"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Users\Piluweri\Desktop\Neuer Ordner (3)"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Fehler: module 'datetime' has no attribute 'strptime'
+
+Press Enter to exit...
+--- New Session Started at 2026-07-27 14:59:05 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\real data\TEST Info-PDF-Mail_CoopX_Mitglieder_alle_Felder_2026-07-27@13h41.csv"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Users\Piluweri\Desktop\Neuer Ordner (3)"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: urkunde_01_Reinhard_Meys.pdf -> erfolgreich ✅
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 1
+Nicht gesendet: 0
+Gesamt: 1
+✅ urkunde_01_Reinhard_Meys.pdf: gesendet an login.lvl-low@ite-pli.de
+
+Press Enter to exit...
+--- New Session Started at 2026-07-27 15:01:30 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\real data\TEST Info-PDF-Mail_CoopX_Mitglieder_alle_Felder_2026-07-27@13h41.csv"
+Der angegebene Pfad wurde nicht gefunden. Bitte erneut eingeben.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\real data\TEST Info-PDF-Mail_CoopX_Mitglieder_alle_Felder_2026-07-27@13h41.csv"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Users\Piluweri\Desktop\Neuer Ordner (3)"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_01_Reinhard_Meys.pdf -> erfolgreich ✅
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+[Übersprungen] Kein Mitglied (Stadium: '') bei: 
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 1
+Nicht gesendet: 0
+Gesamt: 1
+✅ Bestätigung_der_Mitgliedschaft_01_Reinhard_Meys.pdf: gesendet an login.lvl-low@ite-pli.de
+
+Press Enter to exit...
+--- New Session Started at 2026-07-27 15:03:23 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "\\hokkaido\Daten\IT\Mu\Tools\Mitgliedschaft Urkunde Automat\real data\TEST Info-PDF-Mail_CoopX_Mitglieder_alle_Felder_2026-07-27@13h41.csv"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Users\Piluweri\Desktop\Neuer Ordner (3)"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_01_Reinhard_Meys.pdf -> erfolgreich ✅
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 1
+Nicht gesendet: 0
+Gesamt: 1
+✅ Bestätigung_der_Mitgliedschaft_01_Reinhard_Meys.pdf: gesendet an login.lvl-low@ite-pli.de
+
+Press Enter to exit...
+--- New Session Started at 2026-07-27 18:22:01 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\testing data small sample test emails.CSV"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\output_rc v2.0"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] dev@ite-pli.de
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Michael_W_rth.pdf -> erfolgreich ✅
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Susanne Schwörer
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Eheleute Matthias Tuschhoff und Nail Arif
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Moosfeld_Gem_se_GmbH.pdf -> erfolgreich ✅
+❌ [Fehler] Keine E-Mail-Adresse für Dörte Paulo. Überspringe Versand.
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Waldorfschulverein_Markgr_flerland_e._V..pdf -> erfolgreich ✅
+E-Mail konnte nicht gesendet werden: (-2147467260, 'Vorgang abgebrochen', None, None)
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Rinklin_Naturkost_GmbH.pdf -> fehlgeschlagen
+
+[Übersprungen] Mitglied nicht OK (Status: 'Mitglied') bei: Christine Schwake
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Corinna_Ortlieb.pdf -> erfolgreich ✅
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 4
+Nicht gesendet: 2
+Gesamt: 6
+✅ Bestätigung_der_Mitgliedschaft_Michael_W_rth.pdf: gesendet an login.lvl-low@ite-pli.de
+✅ Bestätigung_der_Mitgliedschaft_Moosfeld_Gem_se_GmbH.pdf: gesendet an login.lvl-high@ite-pli.de
+❌ Bestätigung_der_Mitgliedschaft_D_rte_Paulo.pdf: nicht gesendet an 
+✅ Bestätigung_der_Mitgliedschaft_Waldorfschulverein_Markgr_flerland_e._V..pdf: gesendet an test1234test@nochtestein.test
+❌ Bestätigung_der_Mitgliedschaft_Rinklin_Naturkost_GmbH.pdf: nicht gesendet an test
+✅ Bestätigung_der_Mitgliedschaft_Corinna_Ortlieb.pdf: gesendet an login.lvl-mid@ite-pli.de
+
+Press Enter to exit...
+--- New Session Started at 2026-07-27 18:27:18 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\testing data small sample test emails.CSV"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\output_rc v2.0"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Michael_W_rth.pdf -> erfolgreich ✅
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Susanne Schwörer
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Eheleute Matthias Tuschhoff und Nail Arif
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Moosfeld_Gem_se_GmbH.pdf -> erfolgreich ✅
+❌ [Fehler] Keine E-Mail-Adresse für Dörte Paulo. Überspringe Versand.
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Waldorfschulverein_Markgr_flerland_e._V..pdf -> erfolgreich ✅
+E-Mail konnte nicht gesendet werden: (-2147467260, 'Vorgang abgebrochen', None, None)
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Rinklin_Naturkost_GmbH.pdf -> fehlgeschlagen
+
+[Übersprungen] Mitglied nicht OK (Status: 'Mitglied') bei: Christine Schwake
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Corinna_Ortlieb.pdf -> erfolgreich ✅
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 4
+Nicht gesendet: 2
+Gesamt: 6
+✅ Bestätigung_der_Mitgliedschaft_Michael_W_rth.pdf: gesendet an login.lvl-low@ite-pli.de
+✅ Bestätigung_der_Mitgliedschaft_Moosfeld_Gem_se_GmbH.pdf: gesendet an login.lvl-high@ite-pli.de
+❌ Bestätigung_der_Mitgliedschaft_D_rte_Paulo.pdf: nicht gesendet an 
+✅ Bestätigung_der_Mitgliedschaft_Waldorfschulverein_Markgr_flerland_e._V..pdf: gesendet an test1234test@nochtestein.test
+❌ Bestätigung_der_Mitgliedschaft_Rinklin_Naturkost_GmbH.pdf: nicht gesendet an test
+✅ Bestätigung_der_Mitgliedschaft_Corinna_Ortlieb.pdf: gesendet an login.lvl-mid@ite-pli.de
+
+Press Enter to exit...
+[USER INPUT] 
+
+--- New Session Started at 2026-07-27 18:33:36 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+--- New Session Started at 2026-07-27 18:33:41 ---
+
+=== Mitgliedschaft Urkunde Automat RC v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+--- New Session Started at 2026-07-27 18:34:00 ---
+
+=== Mitgliedschaft Urkunde Automat RC v3.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\templates"
+Pfad zur CSV-Datei: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\testing data small sample test emails.CSV"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\output_rc v2.0"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Michael_W_rth.pdf -> erfolgreich ✅
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Susanne Schwörer
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Eheleute Matthias Tuschhoff und Nail Arif
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Moosfeld_Gem_se_GmbH.pdf -> erfolgreich ✅
+❌ [Fehler] Keine E-Mail-Adresse für Dörte Paulo. Überspringe Versand.
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Waldorfschulverein_Markgr_flerland_e._V..pdf -> erfolgreich ✅
+E-Mail konnte nicht gesendet werden: (-2147467260, 'Vorgang abgebrochen', None, None)
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Rinklin_Naturkost_GmbH.pdf -> fehlgeschlagen
+
+[Übersprungen] Mitglied nicht OK (Status: 'Neu') bei: Christine Schwake
+Erstellt und wird versendet: Bestätigung_der_Mitgliedschaft_Corinna_Ortlieb.pdf -> erfolgreich ✅
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 4
+Nicht gesendet: 2
+Gesamt: 6
+✅ Bestätigung_der_Mitgliedschaft_Michael_W_rth.pdf: gesendet an login.lvl-low@ite-pli.de
+✅ Bestätigung_der_Mitgliedschaft_Moosfeld_Gem_se_GmbH.pdf: gesendet an login.lvl-high@ite-pli.de
+❌ Bestätigung_der_Mitgliedschaft_D_rte_Paulo.pdf: nicht gesendet an 
+✅ Bestätigung_der_Mitgliedschaft_Waldorfschulverein_Markgr_flerland_e._V..pdf: gesendet an test1234test@nochtestein.test
+❌ Bestätigung_der_Mitgliedschaft_Rinklin_Naturkost_GmbH.pdf: nicht gesendet an test
+✅ Bestätigung_der_Mitgliedschaft_Corinna_Ortlieb.pdf: gesendet an login.lvl-mid@ite-pli.de
+
+Press Enter to exit...
