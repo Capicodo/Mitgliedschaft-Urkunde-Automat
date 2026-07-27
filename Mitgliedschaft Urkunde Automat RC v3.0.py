@@ -330,7 +330,7 @@ def send_pdf_via_outlook(
         mail._oleobj_.Invoke(*(64209, 0, 8, 0, target_account))
 
         mail.To = recipient
-        mail.Subject = "Korrigierte Bestätigung der Mitgliedschaft"
+        mail.Subject = "Korrektur der Bestätigung der Mitgliedschaft"
         
         # In Outlook anzeigen, um Standard-Signatur zu laden
         mail.Display()
