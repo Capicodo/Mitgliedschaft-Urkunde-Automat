@@ -13,6 +13,60 @@ from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.units import inch
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
 
+
+import builtins
+import datetime
+
+
+class DualLogger:
+    """Redirects stdout to both the console and a specified log file.
+
+    Also handles logging user input.
+    """
+
+    def __init__(self, file_path: Path):
+        self.terminal = sys.stdout
+        self.file_path = file_path
+        # Clear or create the log file at startup
+        with open(self.file_path, "a", encoding="utf-8") as f:
+            f.write(
+                f"\n--- New Session Started at {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---\n\n"
+            )
+
+    def write(self, message: str):
+        # Print to terminal
+        self.terminal.write(message)
+        # Append to log file
+        with open(self.file_path, "a", encoding="utf-8") as f:
+            f.write(message)
+
+    def flush(self):
+        # Needed for Python's sys.stdout interface compatibility
+        self.terminal.flush()
+
+
+def setup_logging(log_filename: str = "app_activity.log") -> Path:
+    """Sets up automatic logging for all print statements and input prompts/responses."""
+    log_path = Path.cwd() / log_filename
+
+    # Redirect standard output to DualLogger
+    logger = DualLogger(log_path)
+    sys.stdout = logger
+
+    # Wrap built-in input() to capture user inputs in the log file
+    original_input = builtins.input
+
+    def logged_input(prompt: str = "") -> str:
+        user_response = original_input(prompt)
+        # Log the prompt + user entry since stdout redirect doesn't automatically catch input() returns
+        with open(log_path, "a", encoding="utf-8") as f:
+            f.write(f"\n[USER INPUT] {user_response}\n")
+        return user_response
+
+    builtins.input = logged_input
+    return log_path
+
+
 PLACEHOLDER_PREFIX = "FIELD_"
 DEFAULT_RECIPIENT = "dev@ite-pli.de"
 
@@ -335,14 +389,13 @@ def main() -> None:
     if not fieldnames:
         raise RuntimeError("Die CSV-Datei enthält keine Spaltenüberschriften.")
 
-    selected_rows = random.sample(rows, k=min(MAX_CERTIFICATES, len(rows)))
 
     sent_count = 0
     failed_count = 0
     results = []
 
     
-    for index, row in enumerate(selected_rows, start=1):
+    for index, row in enumerate(rows, start=1):
         
         
         stadium_value = str(row.get("Stadium", "")).strip()
@@ -418,6 +471,7 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+    log_file = setup_logging("session_log.txt")
     try:
         main()
         input("\nPress Enter to exit...")

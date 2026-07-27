@@ -1,0 +1,37 @@
+=== Log started at 2026-07-27 11:37:17 ===
+
+=== Mitgliedschaft Urkunde Automat Pre-Alpha v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\data"
+Pfad zur CSV-Datei: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\data\testing data small sample test emails.CSV"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\output_testing2"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: urkunde_01_Michael_W_rth.pdf -> erfolgreich
+Erstellt und wird versendet: urkunde_02_Corinna_Ortlieb.pdf -> erfolgreich
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Susanne Schwörer
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Eheleute Matthias Tuschhoff und Nail Arif
+Erstellt und wird versendet: urkunde_05_Moosfeld_Gem_se_GmbH.pdf -> erfolgreich
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 3
+Nicht gesendet: 0
+Gesamt: 3
+- urkunde_01_Michael_W_rth.pdf: gesendet an dev@ite-pli.de
+- urkunde_02_Corinna_Ortlieb.pdf: gesendet an dev@ite-pli.de
+- urkunde_05_Moosfeld_Gem_se_GmbH.pdf: gesendet an dev@ite-pli.de
+
+Press Enter to exit...
+[USER INPUT] 
