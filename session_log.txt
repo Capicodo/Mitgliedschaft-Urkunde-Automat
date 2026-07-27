@@ -35,3 +35,47 @@ Gesamt: 3
 
 Press Enter to exit...
 [USER INPUT] 
+
+--- New Session Started at 2026-07-27 11:49:52 ---
+
+=== Mitgliedschaft Urkunde Automat Pre-Alpha v2.0 ===
+Bitte geben Sie die Dateien ein. Sie können auch komplette Pfade mit Leerzeichen einfügen.
+Ordner mit den DOCX-Vorlagen: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\data"
+Pfad zur CSV-Datei: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\data\testing data small sample test emails.CSV"
+Zielordner für die Urkunden: 
+[USER INPUT] "C:\Github Repositories\Mitgliedschaft-Urkunde-Automat\output_rc"
+Verfügbare Outlook-Konten:
+1. calvin.delloro@piluweri.de (calvin.delloro@piluweri.de)
+2. dev@ite-pli.de (dev@ite-pli.de)
+3. login.lvl-low@ite-pli.de (login.lvl-low@ite-pli.de)
+4. login.lvl-mid@ite-pli.de (login.lvl-mid@ite-pli.de)
+5. login.lvl-high@ite-pli.de (login.lvl-high@ite-pli.de)
+6. einkauf@piluweri.de (einkauf@piluweri.de)
+Bitte geben Sie den zu verwendenden Outlook-Account ein (Display-Name oder E-Mail): 
+[USER INPUT] calvin.delloro@piluweri.de
+Erstellt und wird versendet: urkunde_01_Michael_W_rth.pdf -> erfolgreich
+Erstellt und wird versendet: urkunde_02_Corinna_Ortlieb.pdf -> erfolgreich
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Susanne Schwörer
+
+[Übersprungen] Kein Mitglied (Stadium: 'Bewerber:in') bei: Eheleute Matthias Tuschhoff und Nail Arif
+Erstellt und wird versendet: urkunde_05_Moosfeld_Gem_se_GmbH.pdf -> erfolgreich
+[Fehler] Keine E-Mail-Adresse für Dörte Paulo. Überspringe Versand.
+Erstellt und wird versendet: urkunde_07_Waldorfschulverein_Markgr_flerland_e._V..pdf -> erfolgreich
+E-Mail konnte nicht gesendet werden: (-2147467260, 'Vorgang abgebrochen', None, None)
+Erstellt und wird versendet: urkunde_08_Rinklin_Naturkost_GmbH.pdf -> fehlgeschlagen
+
+=== E-Mail Zusammenfassung ===
+Gesendet: 4
+Nicht gesendet: 2
+Gesamt: 6
+- urkunde_01_Michael_W_rth.pdf: gesendet an lvl-low@ite-pli.de
+- urkunde_02_Corinna_Ortlieb.pdf: gesendet an lvl-mid@ite-pli.de
+- urkunde_05_Moosfeld_Gem_se_GmbH.pdf: gesendet an lvl-high@ite-pli.de
+- urkunde_06_D_rte_Paulo.pdf: nicht gesendet an 
+- urkunde_07_Waldorfschulverein_Markgr_flerland_e._V..pdf: gesendet an test1234test@nochtestein.test
+- urkunde_08_Rinklin_Naturkost_GmbH.pdf: nicht gesendet an test
+
+Press Enter to exit...
